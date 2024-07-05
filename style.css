@@ -10,7 +10,7 @@ header{
 }
 
 .logo{
-    text-decoration: none;
+    text-decoration:dotted;
     color: #3a6cf4;
     text-transform: uppercase;
     font-weight: 700;
